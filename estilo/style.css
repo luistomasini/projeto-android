@@ -68,7 +68,7 @@ nav {
 
 nav > a {
     color: var(--cor04);
-    padding: 10px;
+    padding: 5px;
     text-decoration: none;
     font-weight: bold;
 }
